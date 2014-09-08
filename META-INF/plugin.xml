@@ -1,6 +1,6 @@
-<idea-plugin version="2">
+<idea-plugin version="1">
     <id>be.koen.wellens</id>
-    <name>Plugin display name here</name>
+    <name>My Builder creator test</name>
     <version>1.0</version>
     <vendor email="koen.wellens@hotmail.com" url="wellenskoen@wordpress.com">Koen Wellens</vendor>
 
